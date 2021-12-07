@@ -1,0 +1,73 @@
+.body{
+background-color: #d43b81;
+}
+.container{
+background-image: linear-gradient( 90.6deg,  rgba(77,34,109,1) -1%, rgb(77, 132, 252) 153.1% ); 
+}
+.navbar{
+list-style: none;
+}
+li a{
+text-decoration: none;
+color: azure;
+}
+button{
+width: 100px;
+height: 37px;
+background-color: transparent;
+color: azure;
+border: 2px solid azure;
+}
+.paragraph{
+color: azure;
+font-size: 13px;
+font-weight: bold;
+padding-top: 4%;
+}
+#hor{
+width: 160px;
+border: azure 1px;
+}
+.para{
+color: azure;
+text-align: center;
+font-weight: bold;
+padding-top: 10%;
+}
+.Image{
+padding-left: 45%;
+}
+div .box{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+padding-top: 6%;
+}
+div .card{
+width: 250px;
+text-align: center;
+border: 1px solid  azure;
+height:fit-content;
+}
+*{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#About{
+color: azure;
+text-align: center;
+}
+div .text{
+padding-top: 5%;
+}
+.paragraphh{
+font-size: 16px;
+color: azure;
+text-align: center;
+}
+
+div .container-footer{
+
+color: azure;
+background-color:#d43b81;
+padding-top: 10%;
+}
